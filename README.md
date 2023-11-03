@@ -2,7 +2,7 @@
   Hey, My name's Demi. ✌️
 </h1>
 <h2 align='center'>
-  ••• Student of Electrical Engineering @ CSM ••• Student Programmer ••• Occasional DJ ••• 
+  Student of Electrical Engineering @ CSM ••• Student Programmer ••• Occasional DJ
 </h2>
 <h3> Software/Languages I use: </h3> 
 <p align="center">
